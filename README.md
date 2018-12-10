@@ -12,7 +12,7 @@ The information of how to install it can be found here: https://guides.cocoapods
 
 Once cocoa pods is installed, open the terminal and go the root directory of the project. This address has a file called Podfile. Execute the command 'pod install' and wait until all the process is completed
 
-When the process finished the directory should have a new file called iOSChallenge.xcworkspace, this will be the file used to open the project
+When the process finished the directory should have a new file called MemeGenerator.xcworkspace, this will be the file used to open the project
 
 If you want to run the app in a real device is necessary to set a provisional profile for this, the easy way is to select the check Automatically manage signing option in the target screen and then select the team wished.
 
