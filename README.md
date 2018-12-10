@@ -42,7 +42,7 @@ You can find more information about this logic here: https://medium.com/swift2go
 The project was created using the clean swift architecture, you can find more information about this here:https://clean-swift.com
 
 ## Error Handle
-The app has a scene to control all the errors that could be happen,
+The app has a scene to control all the errors that could happen.
 
 ## How it works
 This is a meme search app, the user can search for any meme in the API and then the app will show the results
